@@ -20,3 +20,4 @@ cliente.cpf = "12345678911"
 banco = BancoConhecimentoDigital.new(cliente)
 banco.show_glade()
 
+# Este arquivo é o arquivo principal
